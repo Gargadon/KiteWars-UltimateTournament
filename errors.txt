@@ -1,0 +1,120 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label start is defined twice, at File "game/Chapter01.rpy", line 1:
+﻿label start:
+and File "game/script.rpy", line 19:
+﻿label start:
+
+
+The label capitulo1 is defined twice, at File "game/Chapter01.rpy", line 33:
+label capitulo1:
+and File "game/script.rpy", line 52:
+label capitulo1:
+
+
+The label chapter01_terrible is defined twice, at File "game/Chapter01.rpy", line 159:
+label chapter01_terrible:
+and File "game/script.rpy", line 178:
+label chapter01_terrible:
+
+
+The label chapter01_milagro is defined twice, at File "game/Chapter01.rpy", line 167:
+label chapter01_milagro:
+and File "game/script.rpy", line 186:
+label chapter01_milagro:
+
+
+The label continuacap1 is defined twice, at File "game/Chapter01.rpy", line 184:
+label continuacap1:
+and File "game/script.rpy", line 203:
+label continuacap1:
+
+
+The label narrador1 is defined twice, at File "game/Chapter01.rpy", line 454:
+label narrador1:
+and File "game/script.rpy", line 473:
+label narrador1:
+
+
+The label situtorial is defined twice, at File "game/Chapter01.rpy", line 480:
+label situtorial:
+and File "game/script.rpy", line 499:
+label situtorial:
+
+
+The label notutorial is defined twice, at File "game/Chapter01.rpy", line 499:
+label notutorial:
+and File "game/script.rpy", line 518:
+label notutorial:
+
+
+The label continuacap1otravez is defined twice, at File "game/Chapter01.rpy", line 508:
+label continuacap1otravez:
+and File "game/script.rpy", line 527:
+label continuacap1otravez:
+
+
+The label pelea1_1 is defined twice, at File "game/Chapter01.rpy", line 533:
+        label pelea1_1:
+and File "game/script.rpy", line 552:
+        label pelea1_1:
+
+
+The label pelea1_2 is defined twice, at File "game/Chapter01.rpy", line 550:
+        label pelea1_2:
+and File "game/script.rpy", line 569:
+        label pelea1_2:
+
+
+The label pelea1_3 is defined twice, at File "game/Chapter01.rpy", line 566:
+        label pelea1_3:
+and File "game/script.rpy", line 585:
+        label pelea1_3:
+
+
+The label pelea1_4 is defined twice, at File "game/Chapter01.rpy", line 582:
+        label pelea1_4:
+and File "game/script.rpy", line 601:
+        label pelea1_4:
+
+
+The label fin1 is defined twice, at File "game/Chapter01.rpy", line 598:
+        label fin1:
+and File "game/script.rpy", line 617:
+        label fin1:
+
+
+The label bad_end_1 is defined twice, at File "game/Chapter01.rpy", line 609:
+label bad_end_1:
+and File "game/script.rpy", line 628:
+label bad_end_1:
+
+
+The label good_end_1 is defined twice, at File "game/Chapter01.rpy", line 617:
+label good_end_1:
+and File "game/script.rpy", line 636:
+label good_end_1:
+
+
+The label continuacap1_3 is defined twice, at File "game/Chapter01.rpy", line 624:
+label continuacap1_3:
+and File "game/script.rpy", line 643:
+label continuacap1_3:
+
+
+The label capitulo2 is defined twice, at File "game/Chapter01.rpy", line 668:
+label capitulo2:
+and File "game/script.rpy", line 687:
+label capitulo2:
+
+
+The label capitulo3 is defined twice, at File "game/Chapter01.rpy", line 831:
+label capitulo3:
+and File "game/script.rpy", line 850:
+label capitulo3:
+
+
+Ren'Py Version: Ren'Py 7.4.9.2142
+Sat Oct 23 19:38:42 2021
