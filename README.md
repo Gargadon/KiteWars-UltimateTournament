@@ -8,7 +8,7 @@ Kaito Ichihara is a fan of kites and Kiters, but his mother won't let him have a
 
 ## TODO
 * Character art design (No skills)
-* Background design (No skills, only mockup bakcgrounds provided)
+* Background design (No skills, only mockup backgrounds provided)
 * Music (No skills)
 * Finishing plot and game mechanics (Only two chapters are finished right now)
 * English translation (Initial release available only in Spanish)

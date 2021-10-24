@@ -76,3 +76,7 @@ label Chapter03:
     ai "No siempre puedes hacerte amigo de quien no quiere."
 
     "No dije nada. Tal vez si abría la boca, lo arruinaría más."
+
+    "Fue así como traté de no pensar en nada más. Ya tenía suficiente en el asunto del \"Justice Kiter\" y del torneo."
+
+    "Me preguntaba cuándo publicarían las bases para participar."
