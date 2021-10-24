@@ -8,9 +8,9 @@ Kaito Ichihara is a fan of kites and Kiters, but his mother won't let him have a
 
 ## TODO
 * Character art design (No skills)
-* Background design (Only mockup bakcgrounds provided)
+* Background design (No skills, only mockup bakcgrounds provided)
 * Music (No skills)
-* Finishing plot and game mechanics (only two chapters are finished right now)
+* Finishing plot and game mechanics (Only two chapters are finished right now)
 
 ## Credits
 * Story and characters: [Gargadon](https://github.com/Gargadon)
