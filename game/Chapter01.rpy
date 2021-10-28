@@ -291,6 +291,20 @@ label continuacap1:
     "Por alguna razón sentía que conocía a aquel señor. A pesar de su apariencia,
     su figura no me daba miedo o repulsión."
 
+menu chapter01_leercartas:
+
+        "Está bien, pero no se tarde.":
+            
+            jump chapter01_continua2
+
+        "No, debo irme a casa ya.":
+
+            vag "¿Seguro? Dicen que soy muy bueno leyendo las cartas. No te cobraré."
+
+            jump chapter01_leercartas
+
+label chapter01_continua2:
+
     kaito "De acuerdo... Pero por favor, no tarde mucho, debo irme a casa."
 
     "Aquel señor le dio la vuelta a las tres cartas y las examinó una a una."

@@ -75,8 +75,10 @@ label Chapter03:
 
     ai "No siempre puedes hacerte amigo de quien no quiere."
 
-    "No dije nada. Tal vez si abría la boca, lo arruinaría más."
+    "No dije nada. Tal vez si abría la boca, lo arruinaría más. Ya tenía suficiente en el asunto del \"Justice Kiter\" y del torneo."
 
-    "Fue así como traté de no pensar en nada más. Ya tenía suficiente en el asunto del \"Justice Kiter\" y del torneo."
+    scene bg kite shop
 
     "Me preguntaba cuándo publicarían las bases para participar."
+
+    "Fue así que Ai y yo nos fuimos a la Kite Shop. En compañía de Nagare"
