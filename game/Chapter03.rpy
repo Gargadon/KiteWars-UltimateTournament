@@ -75,10 +75,55 @@ label Chapter03:
 
     ai "No siempre puedes hacerte amigo de quien no quiere."
 
-    "No dije nada. Tal vez si abría la boca, lo arruinaría más. Ya tenía suficiente en el asunto del \"Justice Kiter\" y del torneo."
+    "No dije nada. Tal vez si abría la boca, lo arruinaría más. Ya tenía suficiente en
+    el asunto del \"Justice Kiter\" y del torneo."
 
     scene bg kite shop
 
     "Me preguntaba cuándo publicarían las bases para participar."
 
-    "Fue así que Ai y yo nos fuimos a la Kite Shop. En compañía de Nagare"
+    "Fue así que Ai y yo nos fuimos a la Kite Shop. En compañía de Nagare comenzamos a armar
+    nuestros cometas. Yo le enseñaba a Ai cómo armar el suyo."
+
+    "Así nos la llevamos toda la tarde, y finalmente Ai pudo armar un cometa que pudo
+    llamar suyo."
+
+    scene bg classroom
+
+    "A la mañana siguiente, había llegado un poco tarde. Afortunadamente, o desafortunadamente,
+    el profesor de la primera hora no había llegado."
+
+    "Pero había un fuerte alboroto entre los chicos del salón. Enmedio de la sala, los cometas
+    de los chicos se encontraban todos destrozados."
+
+    "Uno de ellos intentaba recoger los trozos de su cometa destrozado. La sorpresa fue ver,
+    dentro del círculo improvisado, a este chico y a Hayato."
+
+    ??? "¡E-Es un monstruo!"
+
+    kaito "¿Qué está pasando?"
+
+    ??? "Hayato llegó con una Quake 5000 y comenzó a retar uno a uno 
+    a todos los que se encontraban aquí."
+
+    kaito "Eso es imposible. Hayato no es fanático de las Kite Wars.
+    ¿Cómo puede ser casi un experto de la noche a la mañana?"
+
+    ??? "Es un {i}plot armor{/i}. Los inexpertos se vuelven expertos en una noche
+    cuando el enemigo le entrega un arma definitiva, solo para retar al protagonista."
+
+    kaito "¿Qué dijiste?"
+
+    ??? "No, nada, disfruta del {i}plot armor{/i}."
+
+    "Hayato me observó fijamente y luego me mencionó con una mirada fría."
+
+    hayato "¡[playername], hoy en la Kite Shop, tú y yo tendremos un duelo! ¿Me escuchaste?"
+
+    kaito "¿Qué estás diciendo, Hayato?"
+
+    hayato "¿ACEPTAS O ERES UN GALLINA?
+    ¡CONTESTA DE UNA VEZ!"
+
+    
+    

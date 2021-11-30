@@ -10,7 +10,7 @@
         $ playername="Kaito"
 
 
-    mama "Es hora de ir a la escuela, %(playername)s."
+    mama "Es hora de ir a la escuela, [playername]."
 
     mama "¡No me hagas ir a tu cuarto y levantarte!"
 
@@ -19,7 +19,7 @@
     "Mi mamá acaba de entrar a mi cuarto. No pudo ignorar la enorme cantidad
     de revistas relacionadas a Kite Wars sobre mi escritorio."
 
-    mama "%(playername)s, ¿otra vez leyendo esas revistas?"
+    mama "[playername], ¿otra vez leyendo esas revistas?"
 
     mama "Te he dicho varias veces que no quiero ver nada relacionado a Kite Wars
     en esta casa, me trae malos recuerdos sobre tu padre."
@@ -54,7 +54,7 @@
     "Esta es la Kite Shop más cercana a mi casa. La atiende un sujeto muy alegre
     llamado Nagare Boshi."
 
-    nagare "Hola, %(playername)s. ¿Qué haces tan temprano por aquí?"
+    nagare "Hola, [playername]. ¿Qué haces tan temprano por aquí?"
 
     "Nagare estaba barriendo la entrada de la tienda, es un verdadero conocedor
     de los cometas y de las Kite Wars."
@@ -107,7 +107,7 @@
 
     scene bg elementary front
 
-    ai "Por fin llegas,  %(playername)s. ¿Ya viste la hora que es?"
+    ai "Por fin llegas,  [playername]. ¿Ya viste la hora que es?"
 
     "*Slap*"
 
@@ -138,7 +138,7 @@ label chapter01_milagro:
 
         kaito "Claro que los hice, ¿qué te crees que soy?"
 
-        ai "¿E-Estás enfermo, %(playername)s?"
+        ai "¿E-Estás enfermo, [playername]?"
 
         kaito "¿Por qué lo dices?"
 
@@ -157,7 +157,7 @@ label continuacap1:
 
     "En eso, todo el salón volteó."
 
-    "\"%(playername)s por fin tendrá un cometa...\", mencionaban casi al mismo
+    "\"[playername] por fin tendrá un cometa...\", mencionaban casi al mismo
     tiempo."
 
     "Creo que no está de más mencionar que todos los chicos de la clase tienen un
@@ -191,7 +191,7 @@ label continuacap1:
 
     kaito "NO LO DEVOLVISTE, ¿VERDAD?"
 
-    nagare "Te dije que no lo iba a devolver, %(playername)s. Sabes bien que
+    nagare "Te dije que no lo iba a devolver, [playername]. Sabes bien que
     nunca rompo una promesa."
 
     nagare "...Nunca lo he hecho..."
@@ -250,7 +250,7 @@ label continuacap1:
     "El trabajo de armado de cometa fue tan hermoso, que ni siquiera noté el paso
     del tiempo."
 
-    nagare "¡%(playername)s, es hora de cerrar!"
+    nagare "¡[playername], es hora de cerrar!"
 
     "Nagare gritaba desde la caja de la Kite Shop."
     
@@ -517,7 +517,7 @@ label continuacap1otravez:
 
         label pelea1_1:
 
-            "%(playername)s decidió moverse a un lado."
+            "[playername] decidió moverse a un lado."
 
             $ esquiva = bool(renpy.random.getrandbits(1))
 
@@ -534,7 +534,7 @@ label continuacap1otravez:
 
         label pelea1_2:
 
-            "%(playername)s decidió moverse a un lado."
+            "[playername] decidió moverse a un lado."
             $ esquiva = bool(renpy.random.getrandbits(1))
 
             if esquiva is True:
@@ -550,7 +550,7 @@ label continuacap1otravez:
 
         label pelea1_3:
 
-            "%(playername)s decidió atacar certeramente."
+            "[playername] decidió atacar certeramente."
             $ esquiva = bool(renpy.random.getrandbits(1))
 
             if esquiva is True:
@@ -566,7 +566,7 @@ label continuacap1otravez:
 
         label pelea1_4:
 
-            "%(playername)s decidió atacar certeramente."
+            "[playername] decidió atacar certeramente."
             $ esquiva = bool(renpy.random.getrandbits(1))
 
             if esquiva is True:
@@ -631,7 +631,7 @@ label continuacap1_3:
 
     "Recibo una llamada en mi celular."
 
-    mama "%(playername)s, ¿dónde estás? ¡Ya pasó la hora de cenar!"
+    mama "[playername], ¿dónde estás? ¡Ya pasó la hora de cenar!"
 
     kaito "Ya voy, estoy a dos cuadras."
 
@@ -639,7 +639,7 @@ label continuacap1_3:
 
     "Llego a mi casa y veo a mi mamá en la entrada con un cucharón en sus manos."
 
-    mama "%(playername)s, ¿dónde te habías metido? ¿No ves la hora que...?"
+    mama "[playername], ¿dónde te habías metido? ¿No ves la hora que...?"
 
     "Mi mamá hizo un gesto de descontento al instante, estoy seguro de que vio
     mi cometa. Después de eso, lo único que hizo fue suspirar."

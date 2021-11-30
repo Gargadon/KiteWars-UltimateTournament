@@ -24,7 +24,7 @@ label Chapter02:
     "La mañana siguiente era sábado, así que le insistí a Ai que fuera a la Kite
     Shop."
 
-    ai "Lo siento, %(playername)s, pero tu historia suena tan inverosímil. ¿No
+    ai "Lo siento, [playername], pero tu historia suena tan inverosímil. ¿No
     te habrás quedado hasta muy noche viendo películas de ninjas?"
 
     kaito "Pero te digo que es verdad, hasta tengo los Kite Cores que me dieron."
@@ -120,10 +120,10 @@ label Chapter02:
     kaito "¿Quién es el Justice Kiter y por qué me dio
     estas Kite Cores?"
 
-    ai "%(playername)s, estás haciendo un escándalo en la calle. Discúlpelo, señor,
+    ai "[playername], estás haciendo un escándalo en la calle. Discúlpelo, señor,
     es que está un poco alterado."
 
-    ai "Vámonos, %(playername)s, es mejor que tomes un descanso."
+    ai "Vámonos, [playername], es mejor que tomes un descanso."
 
     "Ai y yo nos fuimos de allí. Vaya, tiene un gran poder de convencimiento."
 
@@ -139,7 +139,7 @@ label Chapter02:
 
     vag "Mientras más gente tengamos a nuestro lado, será mejor."
     
-    vag "Además, %(playername)s todavía no ha entrenado lo suficiente.
+    vag "Además, [playername] todavía no ha entrenado lo suficiente.
     Quiero que mejore para cuando sea el día."
 
     "Ryuusei?" "Al menos deja que vivas en mi casa, no es la más cómoda, pero es
@@ -150,7 +150,7 @@ label Chapter02:
 
     vag "Si pudiera regresar el tiempo y haber pasado más tiempo con mi familia..."
 
-    vag "Tal vez %(playername)s no estaría molesto conmigo."
+    vag "Tal vez [playername] no estaría molesto conmigo."
 
     "Ryuusei?" "No es momento de echarse culpas, profesor. Si hablamos de culpas, yo
     soy el que las tiene más."
