@@ -114,7 +114,8 @@
     "Ella es Ai Ikeda, tiene la misma edad que yo y es la jefa de la clase 5-2.
     La conozco desde que iniciamos la primaria."
     
-    "Siempre lleva ese abanico a todos lados y, aunque no duele, es un tanto humillante."
+    "Siempre lleva ese abanico a todos lados y, aunque no duele,
+    es un tanto humillante."
 
     ai "Estoy segura de que no hiciste los deberes, ¿verdad?"
 
