@@ -595,4 +595,4 @@ label continuacap3_2:
 
     "Fin del capítulo 3"
 
-return
+    jump Chapter04
